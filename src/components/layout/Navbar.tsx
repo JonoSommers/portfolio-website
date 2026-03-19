@@ -1,7 +1,7 @@
 export default function Navbar() {
     return (
         <nav className="fixed top-0 w-full bg-white shadow">
-            <div className="max-2-6x1 mx-auto flex justify-between p-4">
+            <div className="max-2-6xl mx-auto flex justify-between p-4">
                 <h1 className="font-bold">Jono</h1>
 
                 <div className="flex gap-6">
