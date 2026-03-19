@@ -1,7 +1,12 @@
-
-
-import Navbar from "./components/layout/Navbar"
+import About from "./pages/About"
+import Background from "./pages/Background"
+import Contact from "./pages/Contact"
 import Footer from "./components/layout/Footer"
+import Home from "./pages/Home"
+import Navbar from "./components/layout/Navbar"
+import Projects from "./pages/Projects"
+import TechStack from "./pages/TechStack"
+
 
 export default function App() {
   return (
