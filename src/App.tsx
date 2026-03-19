@@ -18,7 +18,7 @@ export default function App() {
         <section id="about"><About /></section>
         <section id="projects"><Projects /></section>
         <section id="background"><Background /></section>
-        <section id="tech"><TechStack /></section>
+        <section id="techstack"><TechStack /></section>
         <section id="contact"><Contact /></section>
       </main>
 
