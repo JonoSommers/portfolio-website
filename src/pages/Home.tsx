@@ -1,5 +1,5 @@
 export default function Home() {
-    const x = 1
+    const test = 123
     return (
         <div className="h-screen flex flex-col justify-center items-center text-center">
             <h1 className="text-4xl font-bold">Jono Sommers</h1>
