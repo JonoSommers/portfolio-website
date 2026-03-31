@@ -14,7 +14,7 @@ export default function Home() {
               Welcome
             </p>
             <h2 className="text-3xl font-semibold leading-snug text-zinc-100">
-              I build clean, scalable web applications — and I'm always chasing the next thing to learn.
+              I build clean, scalable web applications — and I&apos;m always chasing the next thing to learn.
             </h2>
             <p className="text-zinc-400 text-base leading-relaxed">
               Former hospitality leader turned software developer. I bring adaptability, 

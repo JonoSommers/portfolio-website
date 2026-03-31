@@ -13,10 +13,10 @@ export default function About() {
         {/* Bio */}
         <div className="flex flex-col gap-6 max-w-3xl">
           <p className="text-zinc-400 text-base leading-relaxed">
-            Hey! I'm Jono Sommers — a former hospitality leader turned software developer with a deep 
+            Hey! I&apos;m Jono Sommers — a former hospitality leader turned software developer with a deep 
             curiosity for how things work and a drive to keep learning. My journey into tech began with 
-            a simple question: What if I could build the tools that make people's lives easier? Since 
-            then, I've gone all in, embracing every challenge, new language, and late-night "aha!" 
+            a simple question: What if I could build the tools that make people&apos;s lives easier? Since 
+            then, I&apos;ve gone all in, embracing every challenge, new language, and late-night &quot;aha!&quot; 
             moment along the way.
           </p>
           <p className="text-zinc-400 text-base leading-relaxed">
@@ -28,9 +28,9 @@ export default function About() {
           </p>
           <p className="text-zinc-400 text-base leading-relaxed">
             I believe great software comes from a willingness to listen, iterate, and grow. Whether 
-            I'm contributing to a team project or diving into a passion project on my own, I bring 
+            I&apos;m contributing to a team project or diving into a passion project on my own, I bring 
             energy, curiosity, and heart to everything I build. Thanks for taking the time to learn 
-            a bit about me — I can't wait to see where this journey leads next.
+            a bit about me — I can&apos;t wait to see where this journey leads next.
           </p>
         </div>
 
