@@ -22,9 +22,11 @@ export default function Home() {
             </p>
           </div>
 
-          <button className="self-start mt-2 px-6 py-2 border border-emerald-400 text-emerald-400 text-sm tracking-wide rounded hover:bg-emerald-400 hover:text-zinc-950 transition-colors duration-200 cursor-pointer">
+          <a href="/resume.pdf" download="resume.pdf">
+            <button className="self-start mt-2 px-6 py-2 border border-emerald-400 text-emerald-400 text-sm tracking-wide rounded hover:bg-emerald-400 hover:text-zinc-950 transition-colors duration-200 cursor-pointer">
             Download Resume
           </button>
+          </a>
         </div>
 
         {/* RIGHT COLUMN — Photo + name + title */}
