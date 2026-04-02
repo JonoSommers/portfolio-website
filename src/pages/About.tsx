@@ -1,7 +1,7 @@
 export default function About() {
   return (
     <section className="min-h-screen bg-zinc-950 text-white px-10 py-24 flex flex-col justify-center font-mono">
-      <div className="flex flex-row items-start gap-12 max-w-6xl mx-auto w-full">
+      <div className="flex flex-row items-start max-w-6xl mx-auto w-full">
         <div className="max-w-6xl mx-auto w-full flex flex-col gap-10">
 
           {/* Section label */}
@@ -37,8 +37,9 @@ export default function About() {
         </div>
 
         {/* Hobbies List */}
-        <div>
-          <h3 className="text-emerald-400 text-sm tracking-widest uppercase">Hobbies and Interests</h3>
+        <div className="max-w-6xl mx-auto flex flex-col gap-2">
+          <h3 className="text-emerald-400 text-sm tracking-widest uppercase whitespace-nowrap">Hobbies and Interests</h3>
+          <div className="w-12 h-px bg-emerald-400 mt-1" />
           <ul>
             <li className="text-zinc-400 text-base leading-relaxed">Reading</li>
             <li className="text-zinc-400 text-base leading-relaxed">Video games</li>
