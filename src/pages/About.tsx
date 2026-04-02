@@ -37,7 +37,7 @@ export default function About() {
         </div>
 
         {/* Hobbies List */}
-        <div className="max-w-6xl mx-auto flex flex-col gap-2">
+        <div className="max-w-6xl mx-auto flex flex-col gap-2 pt-30">
           <h3 className="text-emerald-400 text-sm tracking-widest uppercase whitespace-nowrap">Hobbies and Interests</h3>
           <div className="w-12 h-px bg-emerald-400 mt-1" />
           <ul>
